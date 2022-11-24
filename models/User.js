@@ -28,6 +28,7 @@ const UserSchema = new mongoose.Schema({
         type:Boolean,
         default:false,
         index:true
+        //son hal,i gardas
     }
 });
 
