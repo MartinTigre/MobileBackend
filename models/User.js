@@ -29,7 +29,7 @@ const UserSchema = new mongoose.Schema({
         default:false,
         index:true
         //son hali gardas
-        //usermodel eklendi
+        //I added user model ahmet nejdet
     }
 });
 
